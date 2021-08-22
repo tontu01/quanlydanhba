@@ -1,5 +1,10 @@
 # README
 
+Guess: http://localhost/kiemtragiuaki/public/
+login: http://localhost/kiemtragiuaki/public/management/login
+	admin@gmail.com
+	admin123
+
 ## SYSTEM REQUIREMENT
 
 * DB
