@@ -1,7 +1,8 @@
 # README
 
 Guess: http://localhost/kiemtragiuaki/public/
-login: http://localhost/kiemtragiuaki/public/management/login
+login: http://localhost/kiemtragiuaki/public/management/login --
+    tài khoản
 	admin@gmail.com
 	admin123
 
